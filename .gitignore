@@ -29,13 +29,13 @@
 
 # Android related
 **/android/**/gradle-wrapper.jar
+**/android/**/google-services.json
 **/android/.gradle
 **/android/captures/
 **/android/gradlew
 **/android/gradlew.bat
 **/android/local.properties
 **/android/**/GeneratedPluginRegistrant.java
-
 # iOS/XCode related
 **/ios/**/*.mode1v3
 **/ios/**/*.mode2v3
